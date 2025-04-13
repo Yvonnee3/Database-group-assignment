@@ -29,4 +29,5 @@ The database comes with pre-inserted sample data:
 - Rollins Owino -rollinsomondi48@gmail.com
 - Zamzam Chelimo Rotich -zamzamchelimo@gmail.com
 - Yvonne Mueni -yvonnemueni42@gmail.com
-  
+
+![ERD Diagram](https://github.com/Yvonnee3/Database-group-assignment/blob/main/bookstore_db_detailed.drawio%20(2).png)
